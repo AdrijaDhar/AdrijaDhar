@@ -21,8 +21,8 @@
 - :seedling: I am currently learning 🌬️backend dev with JAVA , parallely a bit of image recognising systems
 <h2>Certifications:</h2>
 <ul>
- <li><a href="https://academy.hackthebox.com/achievement/675678/15">Try Hack Me-Introduction</a><li>
- <li><a href="https://certificate.codingninjas.com/view/3e728c79e912d8f1">CN-Intro</a><li>
+ <li><a href="https://academy.hackthebox.com/achievement/675678/15">Try Hack Me-Introduction</a></li>
+ <li><a href="https://certificate.codingninjas.com/view/3e728c79e912d8f1">CN-Intro</a></li>
 </ul>
 ---
 
