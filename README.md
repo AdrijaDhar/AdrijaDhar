@@ -18,7 +18,12 @@
 - 🌱 I’m currently learning JAVA development
 - 🤔 I’m looking for help with guidance for ML and cloudops
 - 😁 I have good command in C,C++,Python and now java.
-- :seedling: I am currently learning 🌬️backend dev with JAVA , parallely a bit of image recognising systems 
+- :seedling: I am currently learning 🌬️backend dev with JAVA , parallely a bit of image recognising systems
+<h2>Certifications:</h2>
+<ul>
+ <li><a href="https://academy.hackthebox.com/achievement/675678/15">Try Hack Me-Introduction</a><li>
+ <li><a href="https://certificate.codingninjas.com/view/3e728c79e912d8f1">CN-Intro</a><li>
+</ul>
 ---
 
 ### :fire: My Stats :
