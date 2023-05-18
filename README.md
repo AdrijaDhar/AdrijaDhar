@@ -14,11 +14,9 @@
 
    I am a competitive coding enthusiatic and also I am learning Web Development. Recently started mathematical aspects of machine learning.
    
-- 🔭 I’m currently working on core JAVA 
-- 🌱 I’m currently learning JAVA development
-- 🤔 I’m looking for help with guidance for ML and cloudops
-- 😁 I have good command in C,C++,Python and now java.
-- :seedling: I am currently learning 🌬️backend dev with JAVA , parallely a bit of image recognising systems
+- 🔭 I’m currently working on Machine Learning
+- 🤔 I’m looking for help with guidance for Java development and cybersecurity
+- 😁 I have good command in C,C++,Python, java.
 <h2>Certifications:</h2>
 <ul>
  <li><a href="https://academy.hackthebox.com/achievement/675678/15">Try Hack Me-Introduction</a></li>
