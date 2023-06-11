@@ -22,8 +22,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdrijaDhar&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrijaDhar&layout=compact&theme=vision-friendly-dark)](https://github.com/AdrijaDhar/github-readme-stats)
-const { Contributions } = require('contributions')
-const contributions = await Contributions.forUser('AdrijaDhar');
-const days = contributions.getDays();
+
 
 
