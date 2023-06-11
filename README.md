@@ -17,11 +17,6 @@
 - 🔭 I’m currently working on Machine Learning
 - 🤔 I’m looking for help with guidance for Java development and cybersecurity
 - 😁 I have good command in C,C++,Python, java.
-<h2>Certifications:</h2>
-<ul>
- <li><a href="https://academy.hackthebox.com/achievement/675678/15">Try Hack Me-Introduction</a></li>
- <li><a href="[https://certificate.codingninjas.com/view/3e728c79e912d8f1](https://certificate.codingninjas.com/view/5a0cb34444cfed98)">CN</a></li>
-</ul>
 ---
 
 ### :fire: My Stats :
